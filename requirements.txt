@@ -1,0 +1,5 @@
+flask
+requests
+Jinja2
+Werkzeug==0.16.0
+feedgen
